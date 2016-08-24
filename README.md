@@ -25,7 +25,7 @@ Open the console in your browser of choice.
 
 ![clear console](https://curriculum-content.s3.amazonaws.com/skills-based-js/clear_console.png)
 
-Alternatively, you can press "command + K" or "ctrl + L" to make your console look fresh and new.
+Alternatively, you can press "command + K" in Mac or "ctrl + L" in Windows and Linux based systems to make your console look fresh and new.
 
 Now enter `console` in the console (that's a little funky to say, huh?) and press "enter". In Chrome, you'll see something like
 
